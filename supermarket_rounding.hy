@@ -1,8 +1,9 @@
 (import [random [random]]
         [matplotlib [pyplot :as plt]]
-        [numpy :as np])        
+        [numpy :as np]
+        [scipy.stats :as stats])        
 
-(defn sr-variate [a b] 
+(defn sr-variate [high low alpha beta] 
  (* (/ b  a)
     (/ (+ a (random))
        (+ b (random)))))
@@ -12,7 +13,7 @@
 
 (defn icdf [xs v]
   (np.mean (np.where (> (np.array xs) 1) 1 0)))
-
+  
 
 (defmain []
  (setv xs (sr-sample 13 8 50000)
