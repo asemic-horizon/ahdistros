@@ -19,15 +19,15 @@ The beta density is the distribution of choice for random variables defined in a
 
 ### Implementation status
 
-[ ] Sampler
+[   ] Sampler
 
-[ ] Analytical form
+[   ] Analytical form
 
-[X] PDF
+[ X ] PDF
 
-[ ] CDF
+[   ] CDF
 
-[ ] Naive parameter inference
+[   ] Naive parameter inference
 
 
 Supermarket ratio
@@ -40,15 +40,15 @@ $$ \frac{a+e}{b+e}$$
 ### Implementation status
 
 
-[ ] Sampler
+[   ] Sampler
 
-[ ] Analytical form
+[   ] Analytical form
 
-[ ] PDF
+[   ] PDF
 
-[ ] CDF
+[   ] CDF
 
-[ ] Naive parameter inference
+[   ] Naive parameter inference
 
 
 Balanced AMH-Bibeta
@@ -61,12 +61,12 @@ AMH Bibeta subject to balance a+b=1
 ### Implementation status
 
 
-[ ] Sampler
+[   ] Sampler
 
-[ ] Analytical form
+[   ] Analytical form
 
-[ ] PDF
+[   ] PDF
 
-[ ] CDF
+[   ] CDF
 
-[ ] Naive parameter inference
+[   ] Naive parameter inference
