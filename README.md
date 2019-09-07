@@ -6,7 +6,7 @@ AMH-Multibeta
 
 ### Description
 
-AMH-Multibeta is a distribution defined on <img src="https://rawgit.com/in	git@github.com:asemic-horizon/ahdistros/develop/svgs/67631f9b398162c7422d3bb562fdc3b4.svg?invert_in_darkmode" align=middle width=39.719955pt height=27.91271999999999pt/> with beta marginals linked by the AMH copula. In other words, it has joint density
+AMH-Multibeta is a distribution defined on <img src="svgs/67631f9b398162c7422d3bb562fdc3b4.svg?invert_in_darkmode" align=middle width=39.719955pt height=27.91271999999999pt/> with beta marginals linked by the AMH copula. In other words, it has joint density
 
 <p align="center"><img src="https://rawgit.com/in	git@github.com:asemic-horizon/ahdistros/develop/svgs/15c5ba399970bb5863e7771733aeeef4.svg?invert_in_darkmode" align=middle width=445.09739999999994pt height=46.977315pt/></p>
 
